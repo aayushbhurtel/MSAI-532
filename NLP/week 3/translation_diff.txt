@@ -1,0 +1,5 @@
+- Le blanchiment de capitaux modifie les industries en permettant aux systèmes d'apprendre des données et de prendre des décisions intelligentes.
+?  ^^^^  ^^^  ----------------------
+
++ ML transforme les industries en permettant aux systèmes d'apprendre à partir des données et de prendre des décisions intelligentes.
+? + ^^^  ^^^^                                                         +++++++++
